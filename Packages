@@ -1,0 +1,14 @@
+Package: cim.nobody919.shara
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: NoBody
+Depends: 
+Conflicts:
+Filename: deb/sahara.deb
+Size: 
+MD5sum: 01c97d270cafd1d63933c753864cdaf0
+SHA1: f2a39881ca137578337da81183af4f4bed19bd5f
+SHA256: 7b1f07323e6e165e69f75b8b60155c71222c9239b44a7bc1bd7011f15b335e04
+Section: Tweaks
+Depiction: 
+Name: shara
