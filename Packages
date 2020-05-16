@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: NoBody
 Depends: 
 Conflicts:
-Filename: deb/sahara.deb
+Filename: deb/net.nobody.sahra_1.0-1_iphoneos-arm.deb
 Size: 11113360
 MD5sum: 01c97d270cafd1d63933c753864cdaf0
 SHA1: f2a39881ca137578337da81183af4f4bed19bd5f
