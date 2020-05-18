@@ -12,3 +12,18 @@ SHA256: 3f0469b7d256a19105209d2c1c9c8a330f33ab5d1fc29dd6dae420537172d52d
 Section: Tweaks
 Depiction: 
 Name: shara
+
+Package: me.camera.plus
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: @3bod_syr
+Depends: 
+Conflicts:
+Filename: deb/me.camera.plus_1.0_iphoneos-arm.deb
+Size: 12062
+MD5sum: a0a11e39b09af4fe60c1adaaafe8747f
+SHA1: dd3d23735fefb827a0cae115b756b56ce1d16ff2
+SHA256: 80a06a48436e6b675e7505e8d44a4ad0ced2dbc544c3bb647dd830f7c7077acd
+Section: Tweaks
+Depiction: 
+Name: CameraPlus
