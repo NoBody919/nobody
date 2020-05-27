@@ -27,3 +27,18 @@ SHA256: 80a06a48436e6b675e7505e8d44a4ad0ced2dbc544c3bb647dd830f7c7077acd
 Section: Tweaks
 Depiction: 
 Name: CameraPlus
+
+Package: com.nobode.Snapper 
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Nobode
+Depends:  
+Conflicts: 
+Filename: deb/snapper.2.deb
+Size: 443504
+MD5sum: 684ede6e7900946f5465aa23641a0216
+SHA1: 423d83de3d641deb8f216090ef658c2c6ddbb1bf
+SHA256: 4c1095d0db5c894198682710e4d14058cf00d69b7d99ed103b90976786f8d29b
+Section: Tweaks
+Depiction:  
+Name: snapper.2
