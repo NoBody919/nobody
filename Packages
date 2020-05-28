@@ -49,11 +49,11 @@ Architecture: iphoneos-arm
 Maintainer: Nobode
 Depends:  
 Conflicts: 
-Filename: deb/com.nobode.Snapper_2.3.2_iphoneos-arm.deb
+Filename: deb/com.nobode.Snapper_2.3.2_iphoneos-arm (1).deb
 Size: 443504
-MD5sum: 2989eec3e31dad6ad0fedd2f654c0b3e
-SHA1: 668ac88a5888b47bda022e6b8483fd1fd642a84c
-SHA256: 1d48f69d255be98964fa914298447f6e9aadc5d2dab7bd2caf4a40345b719411
+MD5sum: 5bf25505e89ec29b77d4b80e55318c8a
+SHA1: 9fed2ce139f3f13a10c38af3e05e933932f883c1
+SHA256: d3ec70884655d9afc9a5ace74a49406c0d5b83ab21b75218e21715ea1cff0d3f
 Section: Tweaks
 Depiction:  
 Name: snapper.2 (13-13.5)
