@@ -43,7 +43,7 @@ Section: Tweaks
 Depiction:  
 Name: snapper.2 (12-12.4)
 
-Package: com.nobode.Snapper13-13.5
+Package: com.nobode.Snapper
 Version: 2.3.2
 Architecture: iphoneos-arm
 Maintainer: Nobode
@@ -55,6 +55,6 @@ MD5sum: 2970527c841144e2b107c74dd892555a
 SHA1: 277d06f367912395ce3c566f2e4fa94239af499d
 SHA256: d7ed5866233eb81ec09a54693e3205130c4f1d5be75628591ae1f3e4087432e1
 Section: Tweaks
-Depiction:  
+Depiction: 
 Name: snapper.2 (13-13.5)
 
