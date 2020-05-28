@@ -33,13 +33,13 @@ Version: 2.3.2
 Architecture: iphoneos-arm
 Maintainer: Nobode
 Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper,com.jontelang.snapper2
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
 Filename: deb/NoBody.deb
-Size: 430308
+Size: 443504
 MD5sum: 5bf25505e89ec29b77d4b80e55318c8a
 SHA1: 9fed2ce139f3f13a10c38af3e05e933932f883c1
 SHA256: d3ec70884655d9afc9a5ace74a49406c0d5b83ab21b75218e21715ea1cff0d3f
 Section: Tweaks
 Depiction:  
-Name: snapper.2 
+Name: snapper.2 (13-13.5)
 
