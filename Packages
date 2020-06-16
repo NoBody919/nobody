@@ -1,7 +1,7 @@
 Package: com.NoBode.alrajhimobile
 Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: NoBody
+Maintainer:
 Depends: 
 Conflicts: 
 Filename: deb/com.NoBode.alrajhimobile_0.0.1_iphoneos-arm.deb
