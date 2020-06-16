@@ -1,45 +1,15 @@
-Package: com.nobody919.shara
+Package: com.NoBode.alrajhimobile
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: NoBody
 Depends: 
-Conflicts:
-Filename: deb/gta12345.deb
+Conflicts: 
+Filename: deb/com.NoBode.alrajhimobile_0.0.1_iphoneos-arm.deb
 Size: 11795686
-MD5sum: e379b367ba308a6849082a7ed3eabe8a
-SHA1: 8221c08060de4f3abf8b2a0f54acd9a57696ce14
-SHA256: 3f0469b7d256a19105209d2c1c9c8a330f33ab5d1fc29dd6dae420537172d52d
+MD5sum: 3833ed7af4d24103c9f40c8b071f5f8d
+SHA1: effa7135368ec2fc1e788bdb305e1cb9d83a88af
+SHA256: 
+7ae551bc611bd3499af407d6224c674ed1d0f130f61e3b00c921c8b6e3cf51b2
 Section: Tweaks
 Depiction: 
-Name: shara
-
-Package: me.camera.plus
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: @3bod_syr
-Depends: 
-Conflicts:
-Filename: deb/me.camera.plus_1.0_iphoneos-arm.deb
-Size: 12062
-MD5sum: a0a11e39b09af4fe60c1adaaafe8747f
-SHA1: dd3d23735fefb827a0cae115b756b56ce1d16ff2
-SHA256: 80a06a48436e6b675e7505e8d44a4ad0ced2dbc544c3bb647dd830f7c7077acd
-Section: Tweaks
-Depiction: 
-Name: CameraPlus
-
-Package: com.nobode.Snapper
-Version: 2.3.2
-Architecture: iphoneos-arm
-Maintainer: Nobode
-Depends: mobilesubstrate
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: deb/gta123.deb
-Size: 443504
-MD5sum: d843aa93933dd64e77178a6256c2723a
-SHA1: 4b14d6cd020ec8422a71d20ecb174c910e56f545
-SHA256: 5b4678a338c939edf25378ff7f50abb62b335feea35f9b26eebc7a13eac6b652
-Section: Tweaks
-Depiction:  
-Name: snapper.2 (13-13.5)
-
+Name: اخفاء الراجحي الاصليه
