@@ -2,7 +2,7 @@ Package: com.NoBode.hackpubg
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer:
-Depends: 
+Depends: mobilesubstrate
 Conflicts: 
 Filename: deb/pubghacknobody.deb
 Size: 11795686
