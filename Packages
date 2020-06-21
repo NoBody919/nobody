@@ -1,15 +1,15 @@
-Package: com.NoBode.alrajhimobile
+Package: com.NoBode.hackpubg
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer:
 Depends: 
 Conflicts: 
-Filename: deb/com.NoBode.alrajhimobile_0.0.1_iphoneos-arm.deb
+Filename: deb/pubghacknobody.deb
 Size: 11795686
-MD5sum: 3833ed7af4d24103c9f40c8b071f5f8d
-SHA1: effa7135368ec2fc1e788bdb305e1cb9d83a88af
+MD5sum: 8ce96a2c12df77080ea3a66efe5c43ba
+SHA1: 1cfbc6d1bfb7aee7527b9880c94a8ddca9c81bcb
 SHA256: 
-7ae551bc611bd3499af407d6224c674ed1d0f130f61e3b00c921c8b6e3cf51b2
+904d757e4ede2662a135db2d2b389339fd4e3ca40db4c9cb3637b691f8e42c17
 Section: Tweaks
 Depiction: 
-Name: اخفاء الراجحي الاصليه
+Name: فل هاك ببجي 0.18.0
